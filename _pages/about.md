@@ -31,7 +31,7 @@ I actively welcome collaborations with researchers, industry partners, healthcar
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Honored to be invited as an Area Chair (Meta Reviewer) for ***IJCNN 2027***. 
-- *2026.06*: &nbsp;🎉🎉 One paper accepted by ***Pattern Recognition*** as the first author. 
+- *2026.06*: &nbsp;🎉🎉 One first-author paper was accepted by ***Pattern Recognition***. 
 
 # 📝 Publications 
 
