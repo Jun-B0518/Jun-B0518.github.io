@@ -1,3 +1,4 @@
+- *2026.08*: &nbsp;🎉🎉&nbsp; I was invited to serve as the reviewer for ***ICLR 2027***. 
 - *2026.07*: &nbsp;🎉🎉&nbsp; I was invited to serve on the ***AAAI 2027*** program committee. 
 - *2026.06*: &nbsp;🎉🎉&nbsp; I was invited to serve as an Area Chair (Meta Reviewer) for ***IJCNN 2027***. 
 - *2026.06*: &nbsp;🎉🎉&nbsp; One first-author paper was accepted by ***Pattern Recognition***. 
